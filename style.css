@@ -1,0 +1,54 @@
+body{
+    color: blanchedalmond;
+
+}
+#topic{
+    color: white;
+    background-color: blue;
+    padding: 2px;
+    border-radius: 4px;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+hr{
+    color: black;
+    height: 9px;
+    background-color: black;
+}
+#heading{
+    display: flex;
+
+    
+}
+#displaycolor{
+    color: red;
+    display: flex;
+    margin-left:69%;
+    display: inline;
+    border:2px solid goldenrod;
+
+    
+}
+#colorBox{
+    color:saddlebrown;
+    background-color: blue;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#colorBox>#buttonBox{ 
+    color: black;
+    border: 2px solid black;
+
+
+   
+}
+#greet{
+    text-align: center;
+    padding: 10px;
+    padding-left: 25px;
+    color:black
+}
